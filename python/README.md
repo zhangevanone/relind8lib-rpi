@@ -5,6 +5,14 @@
 
 This is the python library to control the [8-RELAYS Stackable Card for Raspberry Pi](https://sequentmicrosystems.com/product/raspberry-pi-relays-stackable-card/).
 
+## Preinstall
+
+Check rapi i2c enabled.
+
+```bash
+
+```
+
 ## Install
 
 ```bash

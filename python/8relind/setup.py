@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lib8relind",
-    version="1.0.2",
+    name="relind8lib",
+    version="1.0.0",
     author="Sequent Microsystems",
-    author_email="olcitu@gmail.com",
+    author_email="evanone@163.com",
     description="A set of functions to control Sequent Microsystems 8-Relay board",
 	license='MIT',
     url="https://www.sequentmicrosystems.com",
